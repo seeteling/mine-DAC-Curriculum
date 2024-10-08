@@ -1,6 +1,6 @@
 Intro to Python Tutorial Questions
 
-1. Create a new Jupyter notebook (.ipynb file).
+1. Create a new Jupyter notebook (.ipynb file). (file>new file>jupiter notebook)
 2. Save the notebook with the name of the topic (e.g., DAC-001-Intro-to-Python_Tutorial.ipynb) in the respective folder of the topic, in your repository in VSCode (My-DAC-Curriculum).
 3. Solve each tutorial question (listed below) in separate cells of the notebook.
 4. Save and Push your changes to your forked GitHub repository.
